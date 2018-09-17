@@ -1,0 +1,173 @@
+
+.parent
+{
+    background-color: transparent;
+    height:170
+        
+}
+
+.logo
+{
+    padding: 50
+}
+ 
+.child 
+{
+    margin-bottom: 100px;
+    background-color: antiquewhite;
+    position: absolute;
+    left: 600;
+    top: 65px;
+    font-size: 70px;
+    background-color: transparent;
+    text-align: center
+}
+
+
+.x
+{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 30px;
+    right: 30px;
+}
+.container
+{
+ padding-top: 30px;
+    padding-right: 100px;
+    padding-left: 170px;
+}
+
+p
+{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    padding-right: 55px;
+    padding-left: 55px;
+    color: cornflowerblue;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.button1
+{
+    background-color: transparent;
+    border-color: cornflowerblue;
+    border-radius: 50px;
+    border-width: thin
+}
+.form-control
+{
+    
+    border-top:0px;
+    border-right: 0px;
+    border-left: 0px;
+    
+}
+
+
+.btn-primary
+{
+background-color: #3b5998;
+border-radius: 0;
+    width: 420
+    
+}
+
+
+
+
+
+
+
+h2
+{
+    font-weight: 100;
+    font-size: 20px
+}
+footer
+{
+        font-size: 14px;
+    font-family: HelveticaNeueW01-45Ligh,HelveticaNeueW02-45Ligh,HelveticaNeueW10-45Ligh,sans-serif;
+    color: #858f96;
+    width: 320px;   
+    text-align: center;
+    margin-left: 260px;
+    top: 500px
+}
+
+h1
+{
+    font-weight: lighter
+}
+
+.line
+{
+    width: 0.9px;
+    height:250px;
+    background: #858f96;
+    position: absolute;
+    right:650px;
+    top: 200px;
+}
+
+
+
+.btn-primary2
+{
+    background-color: cornflowerblue;
+    position: absolute;
+    top: 70px;
+    width:420 ;
+    border-radius: 0
+}
+
+.so
+{
+    position: absolute;
+    top: 50px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,73 @@
+*
+{
+    padding: 0;
+    margin: 0
+}
+
+body
+{
+    background-color: darkturquoise
+}
+
+.wixa
+{
+    padding: 20
+}
+
+.wixh
+{
+    padding: 50;
+    font-family: fantasy;
+    font-size: 50
+}
+.form-group
+{
+    position: absolute;
+width: 400;
+    left:35%;
+    top: 350
+        
+}
+h2
+{
+    position: absolute;
+    top: 400;
+    text-align: center;
+    left: 35%
+
+}
+
+
+.btn-primary
+{
+    position: absolute;
+    top: 150
+}
+
+
+h3
+{
+    position:relative;
+    top:300;
+    text-align: cente;
+    left: 35%
+
+}
+.hopa
+{
+    position: absolute;
+    right: 700;
+    width: 200
+}
+
+
+
+
+
+
+
+
+
+
+
+

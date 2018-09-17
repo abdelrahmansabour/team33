@@ -1,0 +1,43 @@
+.first
+{
+    padding: 50px
+}
+
+.son
+{
+ position: absolute;
+text-align: center;
+right: 35%;
+font-family: sans-serif;
+font-weight:bold    
+}
+
+h1
+{
+    text-align: center;
+    padding:5 .0 .5 .0
+}
+
+p
+{
+    text-align: center
+}
+
+.btn-primary
+{
+    
+    position: absolute;
+    text-align:center;
+    right: 250;
+    border-radius: 200
+    
+}
+
+.line
+{
+    background-color: cornflowerblue;
+    height: 300px;
+    width: 1;
+    position: absolute;
+    right: 50%
+}
